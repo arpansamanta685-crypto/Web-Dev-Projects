@@ -1,4 +1,10 @@
-# Web-Dev-Projects
+# Voice-Controlled-Calculator
+
+
+
+
+
+
 Full-stack web development projects showcasing HTML, CSS, JavaScript, and backend technologies. Includes REST APIs, database integration, and modern web frameworks.
 import tkinter as tk
 from tkinter import ttk, messagebox
