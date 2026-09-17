@@ -6,6 +6,12 @@
 
 
 Full-stack web development projects showcasing HTML, CSS, JavaScript, and backend technologies. Includes REST APIs, database integration, and modern web frameworks.
+
+
+
+
+
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import speech_recognition as sr
@@ -15,7 +21,6 @@ import operator
 import re
 import ast
 import math
-
 class VoiceCalculator:
     def __init__(self, root):
         self.root = root
