@@ -1,12 +1,4 @@
-# Voice-Controlled-Calculator
-
-voice controlled calculator in python
-
-
-
-
-
-
+# Voice-Controlled-Calculator.
 import tkinter as tk
 from tkinter import ttk, messagebox
 import speech_recognition as sr
